@@ -111,6 +111,13 @@ h2 {
   color: var(--secondary-color);
 }
 
+/* opening times table */
+
+#contact .table-dark *{
+  background-color: transparent;
+}
+
+
 /* media queries */
 /* media device 768px and up */
 @media screen and (min-width: 768px) {
