@@ -145,8 +145,15 @@ h2 {
   background-color: transparent;
 }
 
+/* event section */
+
+#events .student-disc-text {
+   text-align: center;
+   background: var(--highlight-color);
+   color: white;
 
 
+}
 
 /* media queries */
 /* media device 768px and up */
